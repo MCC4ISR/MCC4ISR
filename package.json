@@ -1,0 +1,29 @@
+{
+  "name": "mcc4isr",
+  "version": "1.0.0",
+  "description": "a sky net for bds",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MCC4ISR/MCC4ISR.git"
+  },
+  "keywords": [
+    "bds",
+    "mc"
+  ],
+  "author": "Lition",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MCC4ISR/MCC4ISR/issues"
+  },
+  "homepage": "https://github.com/MCC4ISR/MCC4ISR#readme",
+  "dependencies": {
+    "@socket.io/admin-ui": "^0.5.1",
+    "express": "^4.18.2",
+    "md5-node": "^1.0.1",
+    "socket.io": "^4.5.4"
+  }
+}
